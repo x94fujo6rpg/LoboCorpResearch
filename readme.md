@@ -1,4 +1,8 @@
-# [來源](https://docs.google.com/document/d/1waJN7iJHcfUR6PIG-BE95GTApTwVt1llnmI34ILRn2g/edit)
+# 來源
+- [Console Commands](https://docs.google.com/document/d/1waJN7iJHcfUR6PIG-BE95GTApTwVt1llnmI34ILRn2g/edit)
+- [ID LIST](https://docs.google.com/spreadsheets/d/1tcO37Ur3ITpQjXW1qBDU62cjVMBtVqW7yGjcu3XEMsc/edit#gid=0)
+- [Ego Gifts](https://docs.google.com/spreadsheets/d/1QJ2KW2n6ufnM8SS5JZjztOvDI8MjRqCvJ0dXvLtobqs/edit#gid=0)
+- [ID for MOD](https://docs.google.com/spreadsheets/d/e/2PACX-1vQx7ctDy2JJTbOE0xPuhkk9DpziohNpq-bi2MOlBQWyHblkiytJ3M9-iXRhcj7v1VD_tjHJHUki7an-/pubhtml)
 
 # 解鎖控制台
 按下鍵盤的`` ` ``打開控制台  
@@ -18,7 +22,7 @@
 對異常造成紅傷  
 
 `creature cakeislie [異常ID] [浮點數]`  
-增加異常的PE-BOX數值 (最大999)  
+"增加" 異常的PE-BOX數值  
 
 `creature yannokakora [異常ID] [浮點數]`  
 增加或減少異常的逆卡巴拉計數器  
@@ -273,10 +277,6 @@ R=紅, W=白, B=黑, P=藍
 
 
 # RAW
-- [ID LIST](https://docs.google.com/spreadsheets/d/1tcO37Ur3ITpQjXW1qBDU62cjVMBtVqW7yGjcu3XEMsc/edit#gid=0)
-- [Ego Gifts](https://docs.google.com/spreadsheets/d/1QJ2KW2n6ufnM8SS5JZjztOvDI8MjRqCvJ0dXvLtobqs/edit#gid=0)
-- [ID for mod](https://docs.google.com/spreadsheets/d/e/2PACX-1vQx7ctDy2JJTbOE0xPuhkk9DpziohNpq-bi2MOlBQWyHblkiytJ3M9-iXRhcj7v1VD_tjHJHUki7an-/pubhtml)
-
 ```
 100000	O-00-00	教學兔兔「Dummy」
 100001	F-01-02	焦化少女
